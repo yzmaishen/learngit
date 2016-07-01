@@ -7,4 +7,6 @@ public class test{
     }
 
 //sdfdsfds
+
+i add a new line in branch new1
 }
