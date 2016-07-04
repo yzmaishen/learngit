@@ -19,9 +19,6 @@ sfsdfsdsfsdfdsfsdfdsfa
 
 
 
-ldy now is in bj
+ldy now is not in bj
 
 test push pull
-
-insert in new
-
