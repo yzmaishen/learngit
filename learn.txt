@@ -1,3 +1,6 @@
 sougou
 friendship
+german
+french
+england
 
