@@ -6,6 +6,5 @@ japan
 korea
 
 german
-french
 england
-
+france
