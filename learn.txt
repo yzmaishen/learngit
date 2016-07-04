@@ -1,6 +1,11 @@
 sougou
+
 friendshipisgold
 china 
 japan
 korea
+
+german
+french
+england
 
